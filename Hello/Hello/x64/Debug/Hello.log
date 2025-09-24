@@ -1,0 +1,13 @@
+﻿  Building 'Hello' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\Hello.inf
+  Stamping [Version] section with DriverVer=09/22/2025,14.58.40.982
+  Hello.vcxproj -> C:\Users\User\source\repos\Hello\x64\Debug\Hello.sys
+  ............
+  Signability test failed.
+  
+  Errors:
+  No installation INF found in the root path of the driver. For the driver to be digitally signed, and for it to install properly the installation inf must be in the root of each driver path you have provided. If you have separate folders with different driver packages for different languages, operating systems or device categories then specify each driver set as a separate driver. Each driver package must be selected separately and must contain an installation INF.
+  
+  Warnings:
+  None
+x64\Debug\inf2catOutput.log : Inf2Cat error -2: "Inf2Cat, signability test failed." Double click to see the tool output.

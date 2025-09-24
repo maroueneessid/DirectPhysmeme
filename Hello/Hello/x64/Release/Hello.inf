@@ -1,0 +1,18 @@
+;
+; Hello.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=System
+ClassGuid={4d36e97d-e325-11ce-bfc1-08002be10318}
+Provider="aaaa"
+DriverVer = 09/24/2025,12.37.35.546
+CatalogFile=Hello.cat
+PnpLockdown=1
+
+[DestinationDirs]
+DefaultDestDir = 13
+
+
+
