@@ -1,0 +1,49 @@
+﻿  kernel_ctx.cpp
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(27,21): error C2039: 'expected': is not a member of 'std'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(27,29): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(27,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(27,62): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,17): error C2039: 'expected': is not a member of 'std'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\unordered_map(23,1):
+      see declaration of 'std'
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,25): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,61): error C2039: 'current': is not a member of 'spf::memory_map'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+      C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(24,11):
+      see declaration of 'spf::memory_map'
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,71): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(61,71): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(163,15): error C7555: use of designated initializers requires at least '/std:c++20'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\expected(11): warning STL4038: The contents of <expected> are available only with C++23 or later.
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(191,15): error C7555: use of designated initializers requires at least '/std:c++20'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+C:\Users\localuser\source\repos\physmeme\physmeme\superfetch.h(206,11): error C7555: use of designated initializers requires at least '/std:c++20'
+  (compiling source file 'kernel_ctx/kernel_ctx.cpp')
+  
+  main.cpp
+  Generating Code...
